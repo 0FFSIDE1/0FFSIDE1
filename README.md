@@ -1,4 +1,4 @@
-# Hi there, I'm OFFSIDE, The DebuggerOfLagos 👽
+# Hi there, I'm OFFSIDE, DebuggerOfLagos 👽
 
 Welcome to my GitHub profile! I’m a passionate software developer with extensive experience in various programming languages, frameworks, and development tools. I love building innovative solutions and contributing to open-source projects. 🚀
 
