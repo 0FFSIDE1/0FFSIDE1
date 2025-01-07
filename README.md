@@ -66,8 +66,10 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 <div align="center">
   <img src="https://img.shields.io/badge/-Django_Security_Middleware-092E20?style=flat&logo=django&logoColor=white" alt="Django Security Middleware" title="Django Security Middleware"/>
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" title="JWT"/>
-  <img src="https://img.shields.io/badge/-OpenSSL-721412?style=flat&logo=openssl&logoColor=white" alt="OpenSSL" title="OpenSSL"/>
+  <img src="https://img.shields.io/badge/-OAuth2-338EFF?style=flat&logo=oauth&logoColor=white" alt="OAuth2" title="OAuth2"/>
+  <img src="https://img.shields.io/badge/-SSL/TLS-721412?style=flat&logo=openssl&logoColor=white" alt="SSL/TLS" title="SSL/TLS"/>
 </div>
+
 
 ### **Task Tools**
 <div align="center">
