@@ -1,6 +1,6 @@
 # Hi there, I'm OFFSIDE, DebuggerOfLagos 👽
 
-Welcome to my GitHub profile! I’m a passionate software developer with extensive experience in various programming languages, frameworks, and development tools. I love building innovative solutions and contributing to open-source projects. 🚀
+Welcome to my GitHub profile! I’m a passionate software developer with extensive experience in various programming languages, frameworks, and development tools. 🚀
 
 ---
 
@@ -11,8 +11,8 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 ### **Languages**
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" title="Python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" title="Java"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript">
+ <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" title="Dart"/>
 </div>
 
 ### **Frameworks & Libraries**
@@ -50,8 +50,7 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" title="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab" title="GitLab"/>
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" title="Jenkins"/>
-  <img src="https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white" alt="CircleCI" title="CircleCI"/>
+  
 </div>
 
 ### **Testing**
