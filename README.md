@@ -88,13 +88,6 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 ---
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0FFSIDE1&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0FFSIDE1&layout=compact&theme=tokyonight" width="400">
-</div>
-
 ---
 
 ## 🚀 What I'm Working On
@@ -105,9 +98,6 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 
 ---
 
-## 📅 GitHub Activity
-
-![Your GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=0FFSIDE1&theme=dracula)
 
 ---
 
