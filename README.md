@@ -20,11 +20,12 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
   <img src="https://img.shields.io/badge/-Django-092D40?style=flat&logo=django&logoColor=white" alt="Django" title="Django"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" title="Flask"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" title="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" title="Node.js"/>
+   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" title="Node.js"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" title="Vue.js"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" title="TailwindCSS"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap"/>
   <img src="https://img.shields.io/badge/-Django%20REST%20Framework-0085B6?style=flat&logo=django&logoColor=white" alt="Django REST Framework" title="Django REST Framework"/>
+  <img src="https://img.shields.io/badge/-Django%20Ninja-092E20?style=flat&logo=django&logoColor=white" alt="Django Ninja" title="Django Ninja"/>
 </div>
 
 ### **Databases**
@@ -55,8 +56,6 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 
 ### **Testing**
 <div align="center">
- <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" title="Jest"/>
-  <img src="https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha" title="Mocha"/>
   <img src="https://img.shields.io/badge/-PyTest-000000?style=flat&logo=pytest&logoColor=white" alt="PyTest" title="PyTest"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" title="Postman"/> 
 </div>
