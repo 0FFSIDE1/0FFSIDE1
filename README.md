@@ -12,7 +12,7 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" title="Python"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript">
- <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" title="Dart"/>
+
 </div>
 
 ### **Frameworks & Libraries**
