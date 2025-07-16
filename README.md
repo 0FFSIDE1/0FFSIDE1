@@ -85,7 +85,8 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 
 
 ---
-
+### **Top Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0FFSIDE1&layout=compact)
 
 ---
 
