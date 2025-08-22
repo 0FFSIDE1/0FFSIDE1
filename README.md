@@ -18,8 +18,8 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 ### **Frameworks & Libraries**
 <div align="center">
   <img src="https://img.shields.io/badge/-Django-092D40?style=flat&logo=django&logoColor=white" alt="Django" title="Django"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" title="Flask"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI"/>
+    <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" title="Flask"/>
    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" title="Node.js"/>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" title="Vue.js"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" title="TailwindCSS"/>
@@ -39,10 +39,10 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 
 ### **Cloud & DevOps**
 <div align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" title="Docker"/>
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" title="Nginx"/
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" title="AWS"/>
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" title="Docker"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes"/>
 
 </div>
 
@@ -76,13 +76,6 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" title="RabbitMQ"/>
   <img src="https://img.shields.io/badge/-Flower-00C7B7?style=flat&logo=flower" alt="Flower" title="Flower"/>
 </div>
-
-### **Mobile Development**
-<div align="center">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" title="Flutter"/>
-   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" title="Dart"/>
-</div>
-
 
 ---
 ### **Top Languages**
