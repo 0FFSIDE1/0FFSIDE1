@@ -91,19 +91,19 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 
 ---
 
-
 ---
 
 ## 📞 Contact Me
 
 Feel free to reach out if you want to collaborate or just chat about tech! 
 
-- 📧 Email: [info@offsideint.com](mailto:info@offsideint.com)
+- 📧 Email: [offsideint@gmail.com](mailto:ioffsideint@gmail.com)
 
 ---
 
 ## 📱 Connect with me on:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/OFFSID5)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/somtochukwu-aguinam-ojukwu-a41852111)
+[![Resume](https://img.shields.io/badge/-Hire_Me-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)](https://drive.google.com/file/d/1FOZj0WHEeFLu_mn4l-eIEGs16QXB17PL/view?usp=sharing)
+
