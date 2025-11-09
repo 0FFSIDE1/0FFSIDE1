@@ -1,4 +1,4 @@
-# Hi there, I'm OFFSIDE, DebuggerOfLagos 👽
+# Hi there, I'm SOMTOCHUKWU EMMANUEL
 
 Welcome to my GitHub profile! I’m a passionate software developer with extensive experience in various programming languages, frameworks, and development tools. 🚀
 
