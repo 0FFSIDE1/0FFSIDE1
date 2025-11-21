@@ -41,8 +41,10 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 <div align="center">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" title="Docker"/>
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" title="Nginx"/
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" title="AWS"/>
+ 
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" title="AWS"/>
+  Google Cloud
 
 </div>
 
@@ -58,6 +60,7 @@ Here’s a snapshot of the languages, frameworks, and tools I’ve mastered:
 <div align="center">
   <img src="https://img.shields.io/badge/-PyTest-000000?style=flat&logo=pytest&logoColor=white" alt="PyTest" title="PyTest"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" title="Postman"/> 
+  TDD
 </div>
 
 ### **Security**
